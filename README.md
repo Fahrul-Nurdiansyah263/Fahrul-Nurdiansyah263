@@ -47,24 +47,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **RuliLearning** – LMS platform (Free & Premium learning system)
-- 🧭 **RuliAdventure** – Adventure-themed web project (Coming soon)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahrul-Nurdiansyah263&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahrul-Nurdiansyah263&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Goals
 - 🏗️ Build production-ready applications
 - 📈 Improve backend architecture skills
