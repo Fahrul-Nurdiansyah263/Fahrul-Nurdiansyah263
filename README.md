@@ -1,93 +1,78 @@
 <h1 align="center">👋 Hi, I'm Fahrul</h1>
-<h3 align="center">💻 Fullstack Web Developer | Laravel • React • Node.js</h3>
+<h3 align="center">Fullstack Web Developer | Laravel • React • Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Always+Learning+System+Design" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **web applications**
-- 🌱 I’m currently learning **System Design & Backend Architecture**
-- 💡 I love building **real-world projects**
-- 🎯 Focus on **clean code & scalable system**
+## 🚀 About
+
+- Building scalable web applications
+- Focus on clean architecture & backend systems
+- Interested in system design & performance
+- Always learning modern fullstack ecosystem
 
 ---
 
-## 📚 Currently Learning
-- ⚙️ Laravel Advanced (Service Layer, Queue, Jobs)
-- ⚛️ React (State Management, Performance Optimization)
-- 🟢 Node.js Backend Development
-- 🔐 Authentication (JWT, Sanctum)
-- 🗄️ Database Optimization (MySQL Indexing & Query)
-- 🧠 System Design Basics
-- 🚀 Deployment (Linux, Nginx, Docker concept)
+## ⚙️ Tech Stack
 
----
+<p align="center">
 
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 
-## 🎯 Goals
-- 🏗️ Build production-ready applications
-- 📈 Improve backend architecture skills
-- 💼 Get internship / junior developer role
-- 🌍 Contribute to open source
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 
----
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 
-## 🛠 Tech Stack
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat&logo=figma&logoColor=white" />
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FF9900?style=flat&logo=anthropic&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
-
-  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-ff9900?style=for-the-badge&logo=anthropic&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss" />
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-<p align="left">
+<p align="center">
+
   <a href="mailto:nurdiansyahfahrul23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/Fahrul-Nurdiansyah263">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/fahrul-nurdiansyah-b57267388/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/arul.26_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-![snake gif](https://github.com/Fahrul-Nurdiansyah263/Fahrul-Nurdiansyah263/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Fahrul-Nurdiansyah263/Fahrul-Nurdiansyah263/blob/output/github-snake-dark.svg" />
+</p>
