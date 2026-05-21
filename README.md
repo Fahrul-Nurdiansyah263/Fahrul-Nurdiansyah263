@@ -26,6 +26,15 @@
 
 ---
 
+
+## 🎯 Goals
+- 🏗️ Build production-ready applications
+- 📈 Improve backend architecture skills
+- 💼 Get internship / junior developer role
+- 🌍 Contribute to open source
+
+---
+
 ## 🛠 Tech Stack
 
 <p>
@@ -47,18 +56,26 @@
 
 ---
 
-## 🎯 Goals
-- 🏗️ Build production-ready applications
-- 📈 Improve backend architecture skills
-- 💼 Get internship / junior developer role
-- 🌍 Contribute to open source
-
----
-
 ## 📫 Contact Me
-- 📧 Email: nurdiansyahfahrul23@gmail.com
-- 💻 GitHub: @Fahrul-Nurdiansyah263
+
+<p align="left">
+  <a href="mailto:nurdiansyahfahrul23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Fahrul-Nurdiansyah263">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/fahrul-nurdiansyah-b57267388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/arul.26_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+![snake gif](https://github.com/Fahrul-Nurdiansyah263/Fahrul-Nurdiansyah263/blob/output/github-snake-dark.svg)
