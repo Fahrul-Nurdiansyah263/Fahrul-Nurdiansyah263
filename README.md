@@ -56,7 +56,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: nurdiansyahfahrul23@gmail.com
 - 💻 GitHub: @Fahrul-Nurdiansyah263
 
 ---
